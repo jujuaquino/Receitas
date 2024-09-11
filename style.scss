@@ -3,15 +3,32 @@
     padding: 0;
     box-sizing: border-box;
     body{
-        background-color: rgba(110, 39, 39, 0.584);
+       background-color: rgb(142, 5, 5);
+       font-family: "Montserrat", sans-serif;
     }
 }
 img{
-    width: 80vw;
-    height: 45vh;
+    width: 97vw;
+    height: 50vh;
     margin: 10px; // espaçamento externo
 }
 
 ul{
     margin: 20px;
+}
+
+h1{
+    font-family: "Montagu Slab", serif;
+    color: white;
+}
+
+h2{
+    color: rgb(255, 251, 251);
+}
+
+    
+main{
+
+  
+    padding: 20px;
 }
